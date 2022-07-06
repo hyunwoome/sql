@@ -3,5 +3,6 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/leetcode/easy/1693.sql" dialect="MariaDB" />
     <file url="file://$PROJECT_DIR$/leetcode/easy/1757.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/leetcode/easy/1795.sql" dialect="MariaDB" />
   </component>
 </project>
