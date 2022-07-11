@@ -18,3 +18,5 @@ VALUES ('4', 'D', 'f', '500');
 
 UPDATE Salary set sex = if (sex='m', 'f', 'm');
 SELECT * FROM Salary;
+
+DROP TABLE Salary
