@@ -14,6 +14,7 @@ VALUES ('3', '3')
 INSERT INTO orders (order_number, customer_number)
 VALUES ('4', '3');
 
+EXPLAIN
 SELECT customer_number
 FROM orders
 GROUP BY customer_number
